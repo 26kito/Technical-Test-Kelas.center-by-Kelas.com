@@ -1,0 +1,56 @@
+.btn-ajukan-demo {
+    color: white;
+    background: #c19d6c;
+}
+
+.btn-ajukan-demo:hover {
+    color: white;
+}
+
+.btn-login {
+    color: #c19d6c;
+    border-color: #c19d6c;
+}
+
+.btn-login:hover {
+    color: #c19d6c;
+}
+
+.partner-wrapper {
+    background: #f6f6f6;
+}
+
+.benefit-btn {
+    color: #c19d6c;
+    border-color: #c19d6c;
+}
+
+.benefit-btn:hover {
+    color: #c19d6c;
+}
+
+.benefit-btn-selected {
+    color: white;
+    background: #c19d6c;
+}
+
+.benefit-btn-selected:hover {
+    color: white;
+}
+
+.list-group-item {
+    border: none;
+}
+
+hr.dashed {
+    border-top: 2px dashed #bbb;
+}
+
+.btn-choose-package {
+    background: #87bbd1;
+}
+
+.btn-choose-package-pro {
+    color: white;
+    background: #2d6075;
+}
